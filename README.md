@@ -202,3 +202,6 @@ Custom Feature Engineering
 python# Add domain-specific features
 df['custom_ratio'] = df['temperature'] / df['pressure']
 df['efficiency_score'] = df['speed'] / df['cycle_time']
+
+📄 License
+This project is for educational and research purposes. Please ensure appropriate licensing for commercial use.
